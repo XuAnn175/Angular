@@ -1,4 +1,4 @@
-# Angular30daysMyTodoList
+# MyTodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.  
 Just for basic Angular Module practice
