@@ -1,7 +1,7 @@
 # MyTodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.  
-Just for basic Angular Module practice
+Just for basic Angular Module practice  
 The main code is placed under Angular/src/app/todo-list
 
 ## Development server
